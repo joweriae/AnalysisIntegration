@@ -1,0 +1,11 @@
+Jun Wang, Yadong Lu, Hao Ding, Tao Gu, Chenhu Gong, Jianfei Sun, Zhihong Zhang, Yucai Zhao, Chunping Ma,
+The miR-875-5p inhibits SATB2 to promote the invasion of lung cancer cells,
+Gene,
+Volume 644,
+2018,
+Pages 13-19,
+ISSN 0378-1119,
+https://doi.org/10.1016/j.gene.2017.11.066.
+(https://www.sciencedirect.com/science/article/pii/S0378111917310326)
+Abstract: The pathogenesis of non-small cell lung cancer (NSCLC) is regulated by various miRNAs. In this study, we identified that miR-875-5pis up-regulated in NSCLC patients, and inhibited SATB Homeobox 2(SATB2) to promote proliferation and invasion of NSCLCcells.CCK-8assay revealed thatmiR-875-5p mimics promoted proliferation of NSCLC cells. Transwell assay showed that miR-875-5pmimicspromoted the invasion and migration of NSCLC cells. Luciferase assays confirmed that miR-875-5pdirectly binds to the 3'untranslated region of SATB2, and western blotting showed that miR-875-5psuppresses the expression of SATB2 at the protein level. Moreover, the inhibitors of miR-875-5pinhibit proliferation and invasion of NSCLC cell lines. The miR-875-5pwouldbe a potential therapeutic target for NSCLC treatment in the future.
+Keywords: miR-875-5p; SATB2; NSCLC
